@@ -10,7 +10,6 @@ const pogobuf = require('pogobuf'),
 var config = JSON.parse(fs.readFileSync('config.json', 'utf8'));
 
 // Note: To avoid getting softbanned, change these coordinates to something close to where you last used your account
-// edgewood
 const lat = config.lat,
     lng = config.lng;
 
