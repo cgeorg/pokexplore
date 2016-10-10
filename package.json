@@ -1,0 +1,16 @@
+{
+  "name": "pokexplore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clone": "^1.0.2",
+    "pogobuf": "^1.7.0",
+    "to-csv": "^0.1.1"
+  }
+}
